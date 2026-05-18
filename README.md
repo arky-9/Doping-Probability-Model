@@ -10,7 +10,7 @@ The model does something, but what it produces is an amalgamation of other peopl
 In order for this script to work, you need your own database of information; it has the results of the four athletes found in my paper, but it contains no other information currently.
 If you want, you can try to attach the spreadsheet I created, but I will suggest downloading it as a .csv file first, as I don't think the script can handle the sheet in the form as it is now.
 
-## Runing the Script
+## Running the Script
 **For Mac / Linux:**
 Download this repo, open the terminal, navigate to the folder containing the file, and run:
 ```bash
