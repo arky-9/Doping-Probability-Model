@@ -8,13 +8,13 @@ The model does something, but what it produces is an amalgamation of other peopl
 
  
 **For Mac / Linux:**
-Open the terminal, navigate to the folder containing the file, and run:
+Download this repo, open the terminal, navigate to the folder containing the file, and run:
 ```bash
 perl doping_probability_model.pl
 ```
 
 **For Windows:**
-Install your Perl interpreter of choice and run
+Download this repo, then install your Perl interpreter of choice (if you don't have one) and run
 ```cmd
 perl doping_probability_model.pl
 ```
