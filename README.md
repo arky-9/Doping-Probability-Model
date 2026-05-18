@@ -1,0 +1,19 @@
+# ENGL C1001 Final Research Paper: Statistical Anti-Doping Model
+
+## Overview
+This repository contains the supplementary computational model referenced in Section 3 of my final research essay. 
+
+Professor, if you're reading this I hope you know I tried, but this model doesn't hold a candle to scrutiny. I don't have the skills or the knowledge needed to make a completely airtight model. Smarter people and entire research teams have tried, and were only partially successful. 
+
+ 
+**For Mac / Linux:**
+Open the terminal, navigate to the folder containing the file, and run:
+```bash
+perl doping_probability_model.pl
+```
+
+**For Windows:**
+Install your Perl interpreter of choice and run
+```cmd
+perl doping_probability_model.pl
+```
